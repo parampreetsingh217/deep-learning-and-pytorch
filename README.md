@@ -5,3 +5,4 @@ day 3 = did data preprocessing for the first model
 day 4  = made the fist model about linear regressing reached the accuray of about 95% 
 day 5  =  made the first classification model for 2 circles learned about relu and cross etography loss and alos about the sigmoid function logits and about non linear function 
 day 6  = learned about softmax and multiclass classification made the first multiclassification model for identifying blobs on a graph and started the basics of computer vision and CNN 
+day 7  = made a first baseline linear and on linear model for fashionmist learned to use dataloaders batches for training learned about enumerate and making independednt functions for all loops
