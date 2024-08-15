@@ -7,3 +7,4 @@ day 5  =  made the first classification model for 2 circles learned about relu a
 day 6  = learned about softmax and multiclass classification made the first multiclassification model for identifying blobs on a graph and started the basics of computer vision and CNN 
 day 7  = made a first baseline linear and on linear model for fashionmist learned to use dataloaders batches for training learned about enumerate and making independednt functions for all loops
 day 8 =  leared deep about cnn and also other deep learning networks such as  NLP,RAG,GAN,NLG,VUE,RNN . 
+day 9 = made the first cnn model for Fashion MIST achieved 88.6% accuracy 
