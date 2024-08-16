@@ -8,3 +8,4 @@ day 6  = learned about softmax and multiclass classification made the first mult
 day 7  = made a first baseline linear and on linear model for fashionmist learned to use dataloaders batches for training learned about enumerate and making independednt functions for all loops
 day 8 =  leared deep about cnn and also other deep learning networks such as  NLP,RAG,GAN,NLG,VUE,RNN . 
 day 9 = made the first cnn model for Fashion MIST achieved 88.6% accuracy 
+day 10 = tried buulding my first model with m custom dataset of watches to predict the right brand of watch till now the first model made is overfitting will do the rest tommorow 
