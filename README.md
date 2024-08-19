@@ -10,3 +10,4 @@ day 8 =  leared deep about cnn and also other deep learning networks such as  NL
 day 9 = made the first cnn model for Fashion MIST achieved 88.6% accuracy 
 day 10 = tried buulding my first model with m custom dataset of watches to predict the right brand of watch till now the first model made is overfitting will do the rest tommorow 
 day 11  = completed the first custom dataset pytorch model with custom dataset of watches that is overfitted as the test accuracy is only 0.02% :) . 
+day 12 = made a modular model of teh watches model made yesterday 
