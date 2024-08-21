@@ -12,3 +12,4 @@ day 10 = tried buulding my first model with m custom dataset of watches to predi
 day 11  = completed the first custom dataset pytorch model with custom dataset of watches that is overfitted as the test accuracy is only 0.02% :) . 
 day 12 = made a modular model of teh watches model made yesterday 
 day 13 = used the imagent effnetb0 model to train the watches data obtained %60 train acc and 50%test acc 
+day 14 = did expermiment tracking on the food 101 datastet for image classification achieved 94% test acc with effnetb0 20% data with 10 epochs 
