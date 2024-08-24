@@ -14,3 +14,5 @@ day 12 = made a modular model of teh watches model made yesterday
 day 13 = used the imagent effnetb0 model to train the watches data obtained %60 train acc and 50%test acc 
 day 14 = did expermiment tracking on the food 101 datastet for image classification achieved 94% test acc with effnetb0 20% data with 10 epochs 
 day 15 = made the final vit model using pretrained vitb16 from pytorch got acc of 92% but the finalized model is effnetb2 as the model size diff.
+day 16 = made the final model for hugging face for the mini food vision and also did the main food vision using the full food 101 dataset achieved 58% accuracy. 
+------------------------completed the basic ---- pytorch learning -----------in 16 days .... : ) 
