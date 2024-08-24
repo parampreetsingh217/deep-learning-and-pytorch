@@ -13,3 +13,4 @@ day 11  = completed the first custom dataset pytorch model with custom dataset o
 day 12 = made a modular model of teh watches model made yesterday 
 day 13 = used the imagent effnetb0 model to train the watches data obtained %60 train acc and 50%test acc 
 day 14 = did expermiment tracking on the food 101 datastet for image classification achieved 94% test acc with effnetb0 20% data with 10 epochs 
+day 15 = made the final vit model using pretrained vitb16 from pytorch got acc of 92% but the finalized model is effnetb2 as the model size diff.
